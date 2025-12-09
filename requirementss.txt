@@ -1,0 +1,6 @@
+
+streamlit==1.39.0
+chromadb==0.5.15
+sentence-transformers==2.8.0
+numpy==1.26.4
+openai==0.28.0

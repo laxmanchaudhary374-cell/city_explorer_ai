@@ -1,0 +1,57 @@
+{
+  "company": "City Explorer Tours",
+  "contact": {
+    "address": "789 Market Street, San Francisco, CA",
+    "phone": "(650) 780-9123",
+    "email": "hello@cityexplorertours.com",
+    "website": "https://cityexplorertours.com"
+  },
+  "cities": [
+    {
+      "name": "San Francisco",
+      "packages": [
+        {
+          "title": "Golden Gate Highlights",
+          "code": "SF-GG-101",
+          "duration": "4 hours",
+          "price": 79,
+          "includes": ["Golden Gate Bridge", "Crissy Field", "Palace of Fine Arts"],
+            "schedule": "Daily at 10:00 and 14:00",
+          "notes": "Small groups. Ideal for first-time visitors."
+        },
+        {
+          "title": "Alcatraz & Waterfront",
+          "code": "SF-AL-202",
+          "duration": "6 hours",
+          "price": 129,
+          "includes": ["Alcatraz ferry", "Pier 39", "Fisherman's Wharf"],
+          "schedule": "Mon–Sat at 09:00",
+          "notes": "Passport required for booking."
+        }
+      ]
+    },
+    {
+      "name": "Los Angeles",
+      "packages": [
+        {
+          "title": "Hollywood Essentials",
+          "code": "LA-HW-301",
+          "duration": "3 hours",
+          "price": 69,
+          "includes": ["Hollywood Sign view", "Walk of Fame", "TCL Chinese Theatre"],
+          "schedule": "Daily at 11:00 and 16:00",
+          "notes": "Photo stops included."
+        }
+      ]
+    }
+  ],
+  "policies": {
+    "refunds": "Full refund up to 48 hours before tour. 50% within 24–48 hours. No refund within 24 hours.",
+    "weather": "Tours operate rain or shine. Severe weather may cause rescheduling.",
+    "booking": "Online booking available. Call or email for group rates."
+  },
+  "faqs": [
+    { "q": "How do I book a tour?", "a": "Use our website, call, or email. Group bookings available on request." },
+    { "q": "Do you offer refunds?", "a": "Yes—see our refund policy." }
+  ]
+}
